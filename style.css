@@ -1,11 +1,13 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  background-image: url("diya.jpg"); /* Replace with your image name */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   color: #333;
 }
+
 body::before {
   content: "";
   position: fixed;
