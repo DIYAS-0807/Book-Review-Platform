@@ -1,7 +1,8 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-image: url("diya.jpg"); /* Fixed file name */
+ background-image: url("images/diya.jpg");
+ /* Fixed file name */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
