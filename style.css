@@ -1,14 +1,12 @@
 body {
-  margin: 0;
-  font-family: Arial, sans-serif;
- background-image: url("https://github.com/DIYAS-0807/Book-Review-Platform/blob/main/diya.jpg");
- /* Fixed file name */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  color: #333;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("https://raw.githubusercontent.com/DIYAS-0807/Book-Review-Platform/main/diya.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #333;
 }
-
 
 body::before {
   content: "";
